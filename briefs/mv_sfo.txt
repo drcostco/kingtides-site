@@ -1,0 +1,17 @@
+Mill Valley to SFO
+==================
+Normal route: 38 min without traffic, 27 mi (East Blithedale Avenue, US 101 South, CA 1, I 280 South, I 380 East, US 101 Spur).
+Drive times are free-flow. Holiday traffic will add to them; check a live map before leaving.
+
+Sat Nov 28: Clear all day on the normal route.
+Sun Nov 29: Clear all day on the normal route.
+Mon Nov 30: Clear all day on the normal route.
+Tue Dec 1: Clear all day on the normal route.
+Wed Dec 2: Clear all day on the normal route.
+Thu Dec 3: Clear all day on the normal route.
+Fri Dec 4: Clear all day on the normal route.
+Sat Dec 5: Clear all day on the normal route.
+
+Normal route link: https://www.google.com/maps/dir/?api=1&origin=37.90600,-122.54500&destination=37.61640,-122.39200&travelmode=driving
+
+Basis: Golden Gate tide gauge forecast peaks at about 7.57 ft on Sat Nov 28 around 1:28 PM (likely range 7.28 to 7.78 ft). Updated Sat Nov 28, 2:13 AM PST.

@@ -1,0 +1,17 @@
+Fairfax to Los Angeles
+======================
+Normal route: 5 h 56 min without traffic, 395 mi (Broadway, Center Boulevard, Second Street, I 580 East, I 5 South, CA 170 South).
+Drive times are free-flow. Holiday traffic will add to them; check a live map before leaving.
+
+Sat Nov 28: Clear all day on the normal route.
+Sun Nov 29: Clear all day on the normal route.
+Mon Nov 30: Clear all day on the normal route.
+Tue Dec 1: Clear all day on the normal route.
+Wed Dec 2: Clear all day on the normal route.
+Thu Dec 3: Clear all day on the normal route.
+Fri Dec 4: Clear all day on the normal route.
+Sat Dec 5: Clear all day on the normal route.
+
+Normal route link: https://www.google.com/maps/dir/?api=1&origin=37.98710,-122.58890&destination=34.05220,-118.24370&travelmode=driving
+
+Basis: Golden Gate tide gauge forecast peaks at about 7.57 ft on Sat Nov 28 around 1:28 PM (likely range 7.28 to 7.78 ft). Updated Sat Nov 28, 2:13 AM PST.
